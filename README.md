@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+Commits on master branch will be reflected on https://sancz0609.github.io/coursera-test/
+
 You can use the [editor on GitHub](https://github.com/sancz0609/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
